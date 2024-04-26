@@ -12,8 +12,8 @@
 
 <div>
   <a href="https://github.com/Jhone-cmd">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=jhone-cmd&show_icons=true&theme=transparent">
-     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhone-cmd&layout=compact&langs_count=16&theme=transparent">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhone-cmd&show_icons=true&theme=transparent">
+     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhone-cmd&layout=compact&langs_count=16&theme=transparent">
 </div>
 
   ###

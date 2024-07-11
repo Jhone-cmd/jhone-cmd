@@ -2,7 +2,7 @@
 
 📚 I'm currently studying Software Engineering
 
-🌱 I’m currently learning JavaScript
+🌱 I’m currently learning JavaScript and TypeScript
 
 📨 Ask me about: jhone.1941@gmail.com
 

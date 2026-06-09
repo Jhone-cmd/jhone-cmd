@@ -1,22 +1,24 @@
 ### Hi, I'm Jhone 👋🏾
 
-📚 I'm currently studying Software Engineering
+📚 Graduate in Software Engineering
 
-🌱 I’m currently learning JavaScript and TypeScript
+🌱 I’m currently deepening my knowledge in JavaScript, TypeScript, NodeJS, Java and Spring Boot.
 
 📨 Ask me about: jhone.1941@gmail.com
 
 😄 Pronouns: he/him
 
-  ###
+###
 
 <div>
   <a href="https://github.com/Jhone-cmd">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhone-cmd&show_icons=true&theme=transparent">
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhone-cmd&layout=compact&langs_count=16&theme=transparent">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhone-cmd&show_icons=true&theme=transparent" alt="GitHub Stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhone-cmd&layout=compact&langs_count=16&theme=transparent" alt="Top Languages">
+  </a>
 </div>
 
-  ###
+###
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Jhone-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jhone-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -27,20 +29,22 @@
   <img align="center" alt="Jhone-SpringBoot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
 </div>
   
-  ###
+###
  
-<div> 
-  
-  <a href = "mailto:jhone.1941@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/jhone_justino" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jhone-justino-a28786112?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B8235dHxRTPO6VaPMJIv4AQ%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+<div>  
+  <a href="mailto:jhone.1941@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://www.instagram.com/jhone_justino" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.linkedin.com/in/jhone-justino-a28786112" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
 </div>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jhone-cmd/jhone-cmd/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jhone-cmd/jhone-cmd/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jhone-cmd/jhone-cmd/output/github-contribution-grid-snake.svg">
-</picture>
+
+###
+
+<div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jhone-cmd/jhone-cmd/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jhone-cmd/jhone-cmd/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jhone-cmd/jhone-cmd/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <!--
